@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+
+body {
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.texto-nav {
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+.foto-inicio{
+    max-width: 100%; 
+    height: auto;
+}
